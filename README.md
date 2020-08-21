@@ -1,2 +1,3 @@
-# kaggle
-Machine Learning projects
+# Kaggle competition entry code repo
+
+
